@@ -5,6 +5,7 @@ body {
 div.header {
     background-color: #316dc3;
     margin-top: 10px;
+    text-align: center;
 }
 
 div img {
@@ -22,7 +23,7 @@ div.header_text {
     margin-top: 2px;
 }
 
-div.fix_header {
+.bg_white {
     background-color: #f7f8fa;
 }
 
@@ -71,4 +72,46 @@ div.fix_header li:hover {
     padding: 8px 15px 8px 15px;
     border-radius: 20px;
     font-weight: 500;
+}
+
+div.news_text {
+    background-color: #316dc3;
+}
+
+div.news_bar {
+    padding: 10px;
+}
+
+#text_area {
+    padding: 5px 10px;
+}
+
+#favicon {
+    height: 40px;
+    margin: 5px;
+}
+
+#line {
+    font-size: 30px;
+    color: darkgreen;
+}
+
+#blue_bar {
+    padding: 60px;
+    background-color: rgba(36, 79, 242, 0.8) !important;
+    text-align: center;
+    line-height: 50px;
+}
+
+.font_2 {
+    font-family: 'Merriweather', serif;
+}
+
+.card_content {
+    background-color: white;
+    padding: 30px;
+    box-shadow: 0px 8px 15px grey;
+    font-size: 14px;
+    margin: 15px;
+    color: #316dc3;
 }
