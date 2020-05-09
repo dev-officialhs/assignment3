@@ -115,3 +115,25 @@ div.news_bar {
     margin: 15px;
     color: #316dc3;
 }
+
+.card_content2 {
+    background-color: #f7f8fa;
+    padding: 15px;
+    border: 1px solid #eeeeee;
+    font-size: 14px;
+    color: #316dc3;
+    margin-top: 20px;
+}
+
+.bg-black {
+    background-color: #25272e;
+}
+
+#up {
+    position: fixed;
+    bottom: 20px;
+    right: 5%;
+    height: 50px;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.2);
+}
